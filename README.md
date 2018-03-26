@@ -9,7 +9,6 @@
   <h1></h1>
 </div>
 
-**旧版本v1不再维护，新版本全部基于微信的Component封装！** 组件的使用方式完全改变！[查看v1版本](https://github.com/ChanceYu/weapp/tree/v1)，[下载v1版本](https://github.com/ChanceYu/weapp/releases)
 
 **基于微信的Component自定义组件封装**，简洁的组件化编程，关于Component自定义组件参考 [Component API](https://mp.weixin.qq.com/debug/wxadoc/dev/framework/custom-component/)。
 
@@ -22,9 +21,9 @@
 
 ## 主要内容
 * [weapp组件，自定义封装和优化的组件](#weapp组件)
+  我重新定义了tabs和tab组件，简化了接口
 * [common.js，对公共功能函数和小程序API的封装](#公共方法)
 * [第三方UI展示，方便预览查找，基本不做修改](#第三方ui库使用到)
-
 
 ## 目录结构
 ```
