@@ -1,6 +1,7 @@
 {
   "navigationBarTitleText": "Tab",
   "usingComponents": {
-    "weapp-tab": "/components/weapp/tab/tab"
+    "Tab": "/components/weapp/tab/tab",
+    "Tabs": "/components/weapp/tabs/tabs"
   }
 }
